@@ -1,0 +1,10 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="8c386338-a161-4502-a30b-46800f2aa03b" name="andrew_venenga@stu.indianhills.edu">
+      <server host="github.com" />
+    </account>
+    <account id="221425af-111f-4794-a3b5-c30c8de91379" name="andrew_venenga@stu.indianhills.edu">
+      <server useHttp="false" host="github.com" />
+    </account>
+  </component>
+</application>
